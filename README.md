@@ -73,3 +73,7 @@ Example airodump-ng usage:
 ```
 
 NOTE: Our goal here is to remove the user connected to our target network from the network and reconnect, and to capture and decrypt the encrypted numbers that occur in the air when the user wants to reconnect to the network.
+
+`Soon, the program written in python will come.`
+
+You can support us by joining our community, thanks for reading. > https://discord.gg/5sYSzWQJ3Z
