@@ -77,7 +77,7 @@ Example airodump-ng usage:
 ┌──(root💀kali)-[~]
 └─# aireplay-ng --deauth 10000 -a 0A:1B:2C:3D:4E:5F -c 0A:1B:2C:3D:4E:5F wlan0mon
 ```
-<a href="https://www.hizliresim.com/bfjo2y6.png">Aireplay</a>
+<a href="https://i.hizliresim.com/i6g03ii.png">Aireplay</a>
 
 NOTE: Our goal here is to remove the user connected to our target network from the network and reconnect, and to capture and decrypt the encrypted numbers that occur in the air when the user wants to reconnect to the network.
 
