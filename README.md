@@ -25,12 +25,13 @@
 ### ([▲](#top)) Monitor & Manage <a name="monman"></a>
 `Turning on monitor mode`, example usage:
 - `airmon-ng start <interface>`
-
+```
 ┌──(root💀kali)-[~]
 └─# airmon-ng start wlan0
-
+```
 `Turning off monitor mode`, example usage:
 - `airmon-ng stop <interface>`
-
+```
 ┌──(root💀kali)-[~]
 └─# airmon-ng stop wlan0
+```
