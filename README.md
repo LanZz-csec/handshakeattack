@@ -12,6 +12,8 @@
   - [Gathering information](#infonet)
 * Aireplay-ng
   - [Attack/Handshake](#attack)
+* Decrypt Handshake
+  - [Dec. Handshake file](#decrypt)
 
 <br>
 </details>
@@ -73,6 +75,16 @@ Example airodump-ng usage:
 ```
 
 NOTE: Our goal here is to remove the user connected to our target network from the network and reconnect, and to capture and decrypt the encrypted numbers that occur in the air when the user wants to reconnect to the network.
+
+### ([▲](#top)) Decrypt Handshake <a name="decrypt"></a>
+
+- Previously, we were able to crack handshake files with the aircrack-ng command, but these days could take weeks, with the resource I will give you, you can crack the handshakes you have captured without even having to keep your computer open :)
+
+`https://hashes.com/en/decrypt/hash`
+
+
+
+
 
 `Soon, the program written in python will come.`
 
