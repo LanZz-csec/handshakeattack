@@ -29,7 +29,7 @@
 ┌──(root💀kali)-[~]
 └─# airmon-ng start wlan0
 ```
-<a href="https://i.hizliresim.com/jr314du.png">Airmon</a>
+<a href="https://i.hizliresim.com/jr314du.png">Airmon</a></br>
 <a href="https://i.hizliresim.com/74x8rav.png">iwconfig</a>
 
 `Turning off monitor mode`, example usage:
